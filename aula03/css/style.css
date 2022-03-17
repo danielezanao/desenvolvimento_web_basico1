@@ -1,0 +1,27 @@
+/* Este é o css do meu site*/
+body{
+	font-family: arial;
+	text-align: center;
+	color: #E68977;
+}
+/*Topografias, textos*/
+h1{
+	font-size: 45pt;
+	background-color: #FDD1D2;
+	padding: 30px;
+	margin: 60px;
+	text-align: center;
+	
+	width: 300px;
+}
+
+.destaque{
+	font-size: 30px;
+	font-weight: 100px;
+	text-align: left;
+}
+
+.pequeno{
+	font-size: 10px;
+	text-align: left;
+}
