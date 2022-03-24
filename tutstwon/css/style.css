@@ -33,9 +33,9 @@ h1{
 
 .snooze{
 	margin-left: 800px;
-    font-weight: bold;
-    font-size: 20px;
-    color: #E1C340;
+    	font-weight: bold;
+   	font-size: 20px;
+   	color: #E1C340;
 }
 .food{
 	text-align: center;
@@ -44,9 +44,9 @@ h1{
 }
 .cookies{
 	margin-left: 800px;
-    font-weight: bold;
-    font-size: 20px;
-    color: #E1C340; 
+    	font-weight: bold;
+    	font-size: 20px;
+    	color: #E1C340; 
 }
 .shop{
 	text-align: center;
@@ -55,9 +55,9 @@ h1{
 }
 .puppy{
 	margin-left: 800px;
-    font-weight: bold;
-    font-size: 20px;
-    color: #E1C340;
+   	font-weight: bold;
+    	font-size: 20px;
+    	color: #E1C340;
 }
 .oi{
 	margin-bottom: 10px;
@@ -75,7 +75,7 @@ h1{
 .pirulito{
 	max-width: 100%;
 	display: flex; 
-  	margin: 60px auto; 
+  	margin: 60px; 
  	width: 450px; 
 }
 
