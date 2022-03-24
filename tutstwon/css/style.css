@@ -1,0 +1,90 @@
+body{
+	font-family: arial;
+	text-align: center;
+	color: #205D76;
+	background-color: #faf8da ;
+}
+h1{
+	font-size: 70px;
+	text-align: center;
+}
+
+.um{
+	width: 750px;
+}
+.dois{
+	width: 200px;
+	text-align: center;
+}
+.tres{
+	width: 200Px;
+	text-align: center;
+}
+.quatro{
+	width: 200px;
+	text-align: center;
+}
+
+.sleep{
+	text-align: center;
+	font-size: 30px;
+	color: #205D75;
+}
+
+.snooze{
+	margin-left: 800px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #E1C340;
+}
+.food{
+	text-align: center;
+	font-size: 30px;
+	color: #205D75;
+}
+.cookies{
+	margin-left: 800px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #E1C340; 
+}
+.shop{
+	text-align: center;
+	font-size: 30px;
+	color: #205D75;
+}
+.puppy{
+	margin-left: 800px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #E1C340;
+}
+.oi{
+	margin-bottom: 10px;
+	margin-left: 30px;
+	color: #F8D210;
+}
+.link{
+	color: #E67E30;
+  	font-size: 24px;
+}
+.gato{
+	padding-left: 15px;
+  	color: #F51720; 
+}
+.pirulito{
+	max-width: 100%;
+	display: flex; 
+  	margin: 60px auto; 
+ 	width: 450px; 
+}
+
+footer{
+	background-color: #ffc122;
+	color: white;
+	font-size: 20px;
+	padding: 10px;
+}
+
+
+
