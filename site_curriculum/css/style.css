@@ -189,6 +189,7 @@ h1{
 	align-content: center;
 	padding: 4%;
 	background-color: white;
+	color: darkgreen;
 	/*height: 280px;
 	width: 100%;
 	padding-top: 110px;
@@ -220,6 +221,8 @@ tr:hover {background-color: #59981A;}
 	align-content: center;
 	padding: 4%;
 	background-color: white;
+	font-size: 18px;
+	color: darkgreen;
 }
 .estudar{
 	text-align: center;
@@ -232,13 +235,65 @@ tr:hover {background-color: #59981A;}
 	align-items: center;
 	align-content: center;
 	padding: 4%;
-	background: url('../img/verde6.jpg');
+	/*background: url('../img/verde6.jpg');*/
 	height: 100%;
 	/*position: relative;*/
 	background-size: 100%;
+	font-size: 18px;
+	
 }
 .github{
-   
-}*/
+	text-align: center;
+}
+button {
+  background-color: #59981A; /* Green */
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+  color: darkgreen;
+}
 
+.botao {
+  background-color: white; 
+  color: #59981A; 
+  border: 2px solid #59981A;
+  	text-decoration: none;
+}
 
+button:hover {
+  background-color: #59981A;
+  color: white;
+  text-decoration: none;
+  	text-decoration: none;
+}
+.corzinha{
+	color: #59981A;
+	text-decoration: none;
+}
+.metas{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 4%;
+	background-color:#D7F6D0; 
+	color: #59981A;
+	font-size: 18px;	
+}
+.objetivos{
+	text-align: center;
+}
+
+footer{
+	color: darkgreen;
+	background-color:#D7F6D0; 
+}
