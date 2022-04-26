@@ -61,7 +61,7 @@ nav  li  a{
 	align-content: center;
 	padding-top: 5%;
 
-	background: url('../img/verde6.png');
+	background: url('../img/verde6.jpg');
 	height: 100%;
 	/*position: relative;*/
 	background-size: 100%;
@@ -223,19 +223,22 @@ tr:hover {background-color: #59981A;}
 }
 .estudar{
 	text-align: center;
-
-
-
-
-/*habilidade{
-	.qDqoW {
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
 }
-*/
+.atividades{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 4%;
+	background: url('../img/verde6.jpg');
+	height: 100%;
+	/*position: relative;*/
+	background-size: 100%;
+}
+.github{
+   
+}*/
+
 
