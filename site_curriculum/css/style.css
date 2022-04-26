@@ -77,21 +77,6 @@ nav  li  a{
 	background: rgba(0,0,0,0.6);
 	/*background-color: #afb898; /*#BACC81*/
 	padding-top: 2%;
-	/*
-flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: center;
-	align-items: stretch;
-	align-content: stretch;
-
-	position: absolute;
-	width: 620px;
-	height: 520px;
-	top: 20%;
-	left: 55%;
-	margin-left: -360px;
-	margin-right: -260px;
-	background-color: #BACC81;*/
 }
 #dados{
 	display: flex;
@@ -105,14 +90,6 @@ flex-direction: row;
 .imagem-coluna{
 	height: 440px;
 	background-color: green;
-	/*border-radius: 0px;
-	background: linear-gradient(145deg, #9ea689, #bbc5a3);
-	box-shadow:  8px 8px 16px #adb696,
-             -8px -8px 16px #b1ba9a;*/
-
-	/*-webkit-box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);
--moz-box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);
-box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);*/
 }
 .cor{
 	color: white;/*#59981A;*/
