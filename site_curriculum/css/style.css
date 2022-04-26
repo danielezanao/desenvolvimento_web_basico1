@@ -1,0 +1,241 @@
+body{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: center;
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+	/*font-size: 100%;*/
+	color: black;
+}
+.nome{
+	width: 234px;     		
+	float: left;
+	color: #59981A;
+}
+.menu{
+	text-decoration: none;
+	font-size: 16px ; 			
+	color: #81B622;
+}
+header{
+	width: 100%;
+	height: 48px; 				
+	margin-bottom: 36px;		
+	margin-top: 36px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+a:hover{
+	text-decoration: underline;
+}
+nav{
+	width: 50%;				
+	float: right;
+}
+nav  ul{
+	float: right;
+}
+nav li{
+	font-size: 12px;			
+	margin-left: 20px;			
+	margin-top: 10px;			
+	display: inline-block;
+	font-size: 16px ; 			
+	color: #81B622;
+}
+nav  li  a{
+	color: #999;
+}
+.topo{
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding-top: 5%;
+
+	background: url('../img/verde6.png');
+	height: 100%;
+	/*position: relative;*/
+	background-size: 100%;
+}
+.caixa{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: center;
+	width: 65%;
+	background: rgba(0,0,0,0.6);
+	/*background-color: #afb898; /*#BACC81*/
+	padding-top: 2%;
+	/*
+flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: stretch;
+
+	position: absolute;
+	width: 620px;
+	height: 520px;
+	top: 20%;
+	left: 55%;
+	margin-left: -360px;
+	margin-right: -260px;
+	background-color: #BACC81;*/
+}
+#dados{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: stretch;
+	align-content: center;
+	width: 100%;
+}
+.imagem-coluna{
+	height: 440px;
+	background-color: green;
+	/*border-radius: 0px;
+	background: linear-gradient(145deg, #9ea689, #bbc5a3);
+	box-shadow:  8px 8px 16px #adb696,
+             -8px -8px 16px #b1ba9a;*/
+
+	/*-webkit-box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);
+-moz-box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);
+box-shadow: 10px 10px 34px 0px rgba(130,130,130,1);*/
+}
+.cor{
+	color: white;/*#59981A;*/
+}
+.text{
+	padding: 0px 10px 20px 40px;
+	text-align: left;
+	border: 20px;
+	text-decoration-color: #304E30;
+}
+h2{
+	font-size: 24px;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: left;
+	display: inline-block;
+	color: #59981A;
+}
+.titulo{
+	display: inline-block;
+	color: #59981A ; /*#59981A*/
+}
+h3{
+	font-size: 20px;
+	color:#59981A; /*#304E30*/
+}
+.subtitulo{
+
+}
+.sociais{
+ 	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+	width: 100%;
+ 	background-color: #59981A;
+ 	height: 50px;
+}
+.redes{
+
+}
+.bloco{
+	background-color:#D7F6D0;/* #b6bda6;*/
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 3%;
+	/*height: 280px;
+	padding-top: 70px;
+	text-align: center;
+	width: 100%;*/
+}
+h1{
+	text-align: center;
+}
+.informativo{
+	color: #59981A;
+	font-size: 18px;	
+}
+.informativo > p{
+	text-align: center;
+}
+.experiencia{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 4%;
+	background-color: white;
+	/*height: 280px;
+	width: 100%;
+	padding-top: 110px;
+	*/
+}
+.profissional{
+	text-align: center;
+}
+table {
+  border-collapse: collapse;
+
+  ali: center;
+ }
+th, td {
+  padding: 8px;;
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  text-align: center;
+}
+
+tr:hover {background-color: #59981A;}
+
+.formaçao{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 4%;
+	background-color: white;
+}
+.estudar{
+	text-align: center;
+
+
+
+
+/*habilidade{
+	.qDqoW {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--container-corvid-background-color,rgba(var(--bg,var(--color_11)),var(--alpha-bg,1)));
+}
+*/
+
